@@ -1,0 +1,27 @@
+h1 {
+    background: yellow;
+    text-align: center;
+    color:purple;
+}
+
+ul {
+    font-size:50px
+    
+}
+
+.one {
+    background-color: aqua;
+}
+
+.two {
+    background-color:red;
+}
+
+.three {
+    background-color: brown;
+}
+
+h2 {
+    background-color: red;
+    color: white;
+}
